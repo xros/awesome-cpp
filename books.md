@@ -1,7 +1,7 @@
 
 ## C
 
-* [A Tutorial on Pointers and Arrays in C](http://home.netcom.com/~tjensen/ptr/pointers.htm)
+* [A Tutorial on Pointers and Arrays in C](https://sites.cs.ucsb.edu/~mikec/cs16/misc/ptrtut12/pointers.htm)
 * [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
@@ -20,12 +20,13 @@
 
 ## C++
 
+* [100 C++ Mistakes and How to Avoid Them](https://www.manning.com/books/100-c-plus-plus-mistakes-and-how-to-avoid-them) 
 * [C++ Annotations](http://cppannotations.sourceforge.net/) 
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [C++ Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
 * [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
-* [Data Structures and Algorithms with Object-Oriented Design Patterns in C++](http://www.brpreiss.com/books/opus4/index.html)
+* [Data Structures and Algorithms with Object-Oriented Design Patterns in C++](https://book.huihoo.com/data-structures-and-algorithms-with-object-oriented-design-patterns-in-c++/html/)
 * [Financial Numerical Recipes in C++](http://finance.bi.no/~bernt/gcc_prog/recipes/) - Bernt Arne Ødegaard
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
