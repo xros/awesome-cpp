@@ -123,6 +123,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Qt](https://github.com/qt) :zap: - A cross-platform application and UI framework. [GPL/LGPL/Proprietary] [website](https://www.qt.io)
 * [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPL2]
 * [ROOT](https://root.cern.ch/) - A set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at CERN. [LGPL]
+* [rpp](https://github.com/TheNumbat/rpp) - Minimal Rust-inspired C++20 STL replacement. [MIT]
 * [SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. [MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
 * [Seastar](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. [Apache-2.0 License] [seastar.io](http://seastar.io/)
 * [STLport](http://www.stlport.org/) - An exemplary version of STL. [Free]
@@ -261,6 +262,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. [LGPL]
 * [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0.
 * [heatshrink](https://github.com/atomicobject/heatshrink) - data compression library for embedded/real-time systems  [ISC]
+* [Kanzi](https://github.com/flanglet/kanzi-cpp) - a modern, modular, portable and efficient lossless data compressor implemented in C++. [Apache-2.0]
 * [KArchive](https://api.kde.org/frameworks/karchive/html/index.html) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. [LGPL]
 * [libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. [New BSD] [website](http://www.libarchive.org/)
 * [LZ4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. [BSD] [website](http://www.lz4.org/)
@@ -657,6 +659,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Simd](https://github.com/ermig1979/Simd) - C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM. [MIT]
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. [Public Domain]
 * [tesseract-ocr](https://github.com/tesseract-ocr) - An OCR engine. [Apache2]
+* [TinyDNG](https://github.com/syoyo/tinydng) - Header-only Tiny DNG/TIFF loader and writer in C++. [MIT]
 * [TinyEXIF](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. [MIT]
 * [TinyTIFF](https://github.com/jkriege2/TinyTIFF) - lightweight TIFF reader/writer library. [GPL-3.0]
 * [Video++](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. [MIT]
@@ -902,6 +905,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [restclient-cpp](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. [MIT]
 * [Seasocks](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. [BSD]
 * [tlse](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library [BSD-2-Clause]
+* [TQUIC](https://github.com/tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library, exposed to C and C++. [Apache2]
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
 * [uriparser](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. [BSD-3-Clause]
 * [uWebSockets](https://github.com/uNetworking/uWebSockets) - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib]
@@ -1037,6 +1041,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SIP](https://riverbankcomputing.com/software/sip/intro) - C or C++ Bindings Generator for Python v2 and v3. [GPL]
 * [sol2](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. [MIT]
 * [SWIG](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed] [website](http://www.swig.org/)
+* [txiki.js](https://github.com/saghul/txiki.js) - A tiny JavaScript runtime. [MIT]
 * [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine. [GPL2]
 * [V8](https://v8.dev) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
 * [v8pp](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. [BOOST] [website](https://pmed.github.io/v8pp/)
@@ -1110,7 +1115,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. [LGPLv3]
 * [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. [GPL2]
 * [oat++](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. [Apache-2.0] [website](https://oatpp.io/)
-* [Pistache](http://pistache.io/) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
+* [Pistache](https://pistacheio.github.io/pistache/) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
 * [QDjango](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. [LGPL]
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework) - High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). [BSD] [website](http://www.treefrogframework.org/)
 * [userver](https://github.com/userver-framework/userver) - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. [Apache-2.0] [website](https://userver.tech/)
